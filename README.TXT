@@ -7,4 +7,6 @@ Unfortunately for Fig. 5. the Figure showing the MAPE instead of the Standard De
 
 
 
+<img src="https://raw.githubusercontent.com/materialsguy/Predict_Nanoindentation_Tip_Wear/main/Updated_Fig_5-Standard_deviation.gif)" width="128"/>
+
 ![alt text](https://raw.githubusercontent.com/materialsguy/Predict_Nanoindentation_Tip_Wear/main/Updated_Fig_5-Standard_deviation.gif)
