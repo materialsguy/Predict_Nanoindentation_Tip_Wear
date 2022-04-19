@@ -2,15 +2,15 @@
 
 Model uses following unit system:
 
-force: micro-Newtons (µN)
-displacement or dimension: micro-meters (µm)
+force: micro-Newtons (uN)
+displacement or dimension: micro-meters (um)
 stress: megapascals (MPa)
 
 These applies for both input and output data
 
 *** RUNNING THE SIMULATIONS ***
 
-(1) Change input parameters in the "input_data_3D.csv" file (each row in the file specifies one simulation)
+(1) Change input parameters in the "input_data_2D.csv" file (each row in the file specifies one simulation)
 
 	ID - identification number of the simulation, must be unique for each simulation
 	tip_R - tip radius
@@ -24,7 +24,6 @@ These applies for both input and output data
 	indentation_depth - depth of the indentation procedure
 	number_of_used_CPUs - specifies how many cores of Your CPU will be used
 	Save_ODB - specifies whether the ODB results database will be saved, if 1, ODB will be saved, if 0, only Force-displacement curves data will be saved
-
 
 *** RESULTING FILES ***
 
