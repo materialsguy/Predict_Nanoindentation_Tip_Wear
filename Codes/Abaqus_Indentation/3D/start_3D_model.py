@@ -75,15 +75,15 @@ for i in range(1, numrows+1):
 	ALE_freq = 1  # frequency of ALE adaptive meshing, 1 means each time step will undergo remeshing, 2 means each other undergoes it etc.
 	indent_width = indent_depth/(tan(np.deg2rad(12.95)))
 
-	execfile(work_path + '/scripts_3D_Dao_fine_unloading_ALE/geom_specimen.py', __main__.__dict__)
-	execfile(work_path + '/scripts_3D_Dao_fine_unloading_ALE/geom_tip.py', __main__.__dict__)
-	execfile(work_path + '/scripts_3D_Dao_fine_unloading_ALE/materials.py', __main__.__dict__)
-	execfile(work_path + '/scripts_3D_Dao_fine_unloading_ALE/contact_prop.py', __main__.__dict__)
-	execfile(work_path + '/scripts_3D_Dao_fine_unloading_ALE/load.py', __main__.__dict__)
-	execfile(work_path + '/scripts_3D_Dao_fine_unloading_ALE/msh.py', __main__.__dict__)
-	execfile(work_path + '/scripts_3D_Dao_fine_unloading_ALE/run.py', __main__.__dict__)
+	execfile(work_path + '/scripts_3D/geom_specimen.py', __main__.__dict__)
+	execfile(work_path + '/scripts_3D/geom_tip.py', __main__.__dict__)
+	execfile(work_path + '/scripts_3D/materials.py', __main__.__dict__)
+	execfile(work_path + '/scripts_3D/contact_prop.py', __main__.__dict__)
+	execfile(work_path + '/scripts_3D/load.py', __main__.__dict__)
+	execfile(work_path + '/scripts_3D/msh.py', __main__.__dict__)
+	execfile(work_path + '/scripts_3D/run.py', __main__.__dict__)
 	try:
-		execfile(work_path + '/scripts_3D_Dao_fine_unloading_ALE/results.py', __main__.__dict__)
-		execfile(work_path + '/scripts_3D_Dao_fine_unloading_ALE/sim_check.py', __main__.__dict__)
+		execfile(work_path + '/scripts_3D/results.py', __main__.__dict__)
+		execfile(work_path + '/scripts_3D/sim_check.py', __main__.__dict__)
 	except:
 		print('Simulation was not finished')
