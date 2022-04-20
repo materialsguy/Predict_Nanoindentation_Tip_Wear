@@ -29,7 +29,7 @@ These applies for both input and output data
 	Save_ODB - specifies whether the ODB results database will be saved, if 1, ODB will be saved, if 0, only Force-displacement curves data will be saved
 
 
-*** RESULTING FILES ***
+***RESULTING FILES***
 
 After each simulation is done, two files with respective ID will be saved:
 
