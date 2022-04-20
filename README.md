@@ -21,4 +21,4 @@ If you use any of the raw or worked data please cite:
 
 ![alt text](https://raw.githubusercontent.com/materialsguy/Predict_Nanoindentation_Tip_Wear/main/Updated_Fig_5-Standard_deviation.gif)
 
-*Codes by Claus Trost and Stanislav Zak*
+*Codes by Claus O. W. Trost and Stanislav Zak*
