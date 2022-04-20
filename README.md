@@ -14,7 +14,9 @@ If you use the Abaqus Codes please cite:
 </ul> 
 
 If you use any of the raw, worked data please cite:
-"Bridging Fidelities to Predict Nanoindentation Tip Radii Using Interpretable Deep Learning Models": https://link.springer.com/article/10.1557/s43578-022-00541-1
+<ul>
+<li>"Bridging Fidelities to Predict Nanoindentation Tip Radii Using Interpretable Deep Learning Models": https://link.springer.com/article/10.1557/s43578-022-00541-1</li>
+</ul>
 
 
 ![alt text](https://raw.githubusercontent.com/materialsguy/Predict_Nanoindentation_Tip_Wear/main/Updated_Fig_5-Standard_deviation.gif)
