@@ -1,10 +1,11 @@
 # IMPORTANT
 
 Model uses following unit system:
-
-force: micro-Newtons (uN)
-displacement or dimension: micro-meters (um)
-stress: megapascals (MPa)
+<ul>
+	<li>force: micro-Newtons (µN)</li>
+	<li>displacement or dimension: micro-meters (µm)</li>
+	<li>stress: megapascals (MPa)</li>
+</ul>
 
 These applies for both input and output data
 
