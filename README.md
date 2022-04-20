@@ -13,7 +13,7 @@ If you use the Abaqus Codes please cite:
   <li>https://www.sciencedirect.com/science/article/pii/S0997753818308349 if you use the same Fortran materials model</li>
 </ul> 
 
-If you use any of the raw, worked data please cite:
+If you use any of the raw or worked data please cite:
 <ul>
 <li>"Bridging Fidelities to Predict Nanoindentation Tip Radii Using Interpretable Deep Learning Models": https://link.springer.com/article/10.1557/s43578-022-00541-1</li>
 </ul>
