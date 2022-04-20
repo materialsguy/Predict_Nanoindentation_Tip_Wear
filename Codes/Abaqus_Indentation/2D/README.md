@@ -1,4 +1,4 @@
-*** IMPORTANT ***
+# IMPORTANT
 
 Model uses following unit system:
 
