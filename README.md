@@ -9,7 +9,7 @@ If you use the Abaqus Codes please cite:
 
 <ul>
   <li>"Bridging Fidelities to Predict Nanoindentation Tip Radii Using Interpretable Deep Learning Models": https://link.springer.com/article/10.1007/s11837-022-05233-z </li>
-  <li>"Accurate measurement of thin film mechanical properties using nanoindentation": https://link.springer.com/article/10.1557/s43578-022-00541-1/li>
+  <li>"Accurate measurement of thin film mechanical properties using nanoindentation": https://link.springer.com/article/10.1557/s43578-022-00541-1</li>
   <li>https://www.sciencedirect.com/science/article/pii/S0997753818308349 if you use the same Fortran materials model</li>
 </ul> 
 
