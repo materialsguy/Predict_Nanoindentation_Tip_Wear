@@ -9,7 +9,7 @@ Model uses following unit system:
 
 These applies for both input and output data
 
-** RUNNING THE SIMULATIONS **
+**RUNNING THE SIMULATIONS**
 
 (1) Change input parameters in the "input_data_2D.csv" file (each row in the file specifies one simulation)
 
